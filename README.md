@@ -18,4 +18,4 @@ First: run `npm install` to install node_module dependencies, then, run `npm tes
 
 | #   | Challenge            | Complexity | Solution |
 | --- | -------------------- | ---------- | -------- |
-| 01  | First gift repeated! | EASY       |          |
+| 01  | [First gift repeated!](https://adventjs.dev/en/challenges/2023/1) | EASY |  [Click here](https://github.com/inanocs/adventjs/tree/main/2023/01) |

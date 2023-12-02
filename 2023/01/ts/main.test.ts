@@ -40,10 +40,10 @@ describe('Challenge 01 - TS', () => {
       input: [12, 20, 30, 11, 20, 12],
     },
   ]
-  testCases.forEach((testCase, idx) => {
-    const testName = `Test #${idx + 1}: Should return "${testCase.expected}"`
+  testCases.forEach(({ input, expected }, idx) => {
+    const testName = `Test #${idx + 1}: Should return "${expected}"`
     it(testName, () => {
-      expect(findFirstRepeated(testCase.input)).toEqual(testCase.expected)
+      expect(findFirstRepeated(input)).toEqual(expected)
     })
   })
 })

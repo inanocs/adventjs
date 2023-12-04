@@ -16,8 +16,9 @@ First: run `npm install` to install node_module dependencies, then, run `npm tes
 
 ---
 
-| #   | Challenge                                                         | Complexity | Solution                                                            |
-| --- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------------------- |
-| 01  | [First gift repeated!](https://adventjs.dev/en/challenges/2023/1) | EASY       | [Click here](https://github.com/inanocs/adventjs/tree/main/2023/01) |
-| 02  | [We start the factory](https://adventjs.dev/en/challenges/2023/2) | EASY       | [Click here](https://github.com/inanocs/adventjs/tree/main/2023/02) |
-| 03  | [The naughty elf](https://adventjs.dev/en/challenges/2023/3)      | EASY       | [Click here](https://github.com/inanocs/adventjs/tree/main/2023/03) |
+| #   | Challenge                                                                | Complexity | Solution                                                            |
+| --- | ------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------- |
+| 01  | [First gift repeated!](https://adventjs.dev/en/challenges/2023/1)        | EASY       | [Click here](https://github.com/inanocs/adventjs/tree/main/2023/01) |
+| 02  | [We start the factory](https://adventjs.dev/en/challenges/2023/2)        | EASY       | [Click here](https://github.com/inanocs/adventjs/tree/main/2023/02) |
+| 03  | [The naughty elf](https://adventjs.dev/en/challenges/2023/3)             | EASY       | [Click here](https://github.com/inanocs/adventjs/tree/main/2023/03) |
+| 04  | [Turn the parentheses around](https://adventjs.dev/en/challenges/2023/4) | MEDIUM     | [Click here](https://github.com/inanocs/adventjs/tree/main/2023/04) |
